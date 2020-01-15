@@ -1,0 +1,10 @@
+{
+  "restaurant": [
+    {
+      "precioPlato": "400",
+      "nombrePlato": "Rip Eye 400g",
+      "categoria": "cortes",
+      "id": 2
+    }
+  ]
+}
